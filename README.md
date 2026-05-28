@@ -1,6 +1,6 @@
-<!-- Header -->
+<!-- Header: color=gradient 은 capsule-render 공식 지원 포맷 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:0070F3&height=220&section=header&text=cocodding0723&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Unity%20%26%20Flutter%20Developer&descAlignY=58&descSize=22&descColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=cocodding0723&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Unity%20%26%20Flutter%20Developer&descAlignY=58&descSize=22"/>
 </div>
 
 <!-- Typing animation -->
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/followers/cocodding0723?label=Followers&style=for-the-badge&logo=github&color=7928CA&labelColor=1a1a2e"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=cocodding0723&style=for-the-badge&color=FF0080&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/badge/Focus-Unity%20%26%20Flutter-brightgreen?style=for-the-badge&color=0070F3&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Focus-Unity%20%26%20Flutter-blue?style=for-the-badge&labelColor=1a1a2e"/>
 </div>
 
 <br/>
@@ -65,34 +65,14 @@ class Developer {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cocodding0723&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=7928CA&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocodding0723&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=ffffff&langs_count=8"/>
-</div>
-
-<br/>
-
-<!-- Streak stats - 성실함 어필 핵심! -->
+<!-- Streak stats: streak-stats.demolab.com 은 안정적 -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cocodding0723&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0080&sideLabels=7928CA&dates=ffffff" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cocodding0723&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
+<!-- Activity Graph: github-readme-activity-graph 안정적 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cocodding0723&theme=react-dark&bg_color=0D1117&color=FF0080&line=7928CA&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
@@ -120,7 +100,7 @@ class Developer {
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,50:FF0080,100:7928CA&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer"/>
 </div>
 
 <div align="center">
