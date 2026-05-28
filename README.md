@@ -55,7 +55,7 @@ class Developer {
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
 
 ### ☁️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,aws,docker&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,aws,docker&theme=dark&perline=7"/>
 
 </div>
 
