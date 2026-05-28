@@ -49,7 +49,7 @@ class Developer {
 <div align="center">
 
 ### 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,opengl&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=unity,unrealengine&theme=dark&perline=6"/>
 
 ### 📱 Mobile & App
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
