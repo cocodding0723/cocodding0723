@@ -60,6 +60,9 @@ class Developer {
 ### ☁️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,aws,docker&theme=dark&perline=7"/>
 
+### 🔄 CI/CD
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark&perline=6"/>
+
 </div>
 
 <br/>
