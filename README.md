@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=480&lines=🎮+Unity+Game+Developer;📱+Flutter+App+Developer;🔥+Passionate+%26+Consistent+Coder;✨+Clean+Code+Enthusiast;🚀+Always+Building+Something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=500&lines=Unity+Game+Developer;Flutter+App+Developer;Passionate+%26+Consistent+Coder;Clean+Code+Enthusiast;Always+Building+Something" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -49,13 +49,13 @@ class Developer {
 <div align="center">
 
 ### 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark&perline=6"/>
 
 ### 📱 Mobile & App
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=6"/>
 
 ### ☁️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark&perline=6"/>
 
 </div>
 
