@@ -52,10 +52,10 @@ class Developer {
 <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark&perline=6"/>
 
 ### 📱 Mobile & App
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
 
 ### ☁️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,aws,docker&theme=dark&perline=6"/>
 
 </div>
 
