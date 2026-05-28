@@ -48,6 +48,9 @@ class Developer {
 
 <div align="center">
 
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=dark&perline=6"/>
+
 ### 🎮 Game Development
 <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark&perline=6"/>
 
