@@ -48,20 +48,20 @@ class Developer {
 
 <div align="center">
 
-### 💬 Languages
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=dark&perline=6"/>
-
 ### 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=unity&theme=dark&perline=6"/>
 
 ### 📱 Mobile & App
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
 
-### ☁️ Backend & Tools
-<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,aws,docker&theme=dark&perline=7"/>
+### ☁️ Backend
+<img src="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins&theme=dark&perline=6"/>
 
-### 🔄 CI/CD
-<img src="https://skillicons.dev/icons?i=jenkins&theme=dark&perline=6"/>
+### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6"/>
+
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=dark&perline=6"/>
 
 </div>
 
