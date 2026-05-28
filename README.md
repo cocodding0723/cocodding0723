@@ -1,6 +1,6 @@
 <!-- Header: color=gradient 은 capsule-render 공식 지원 포맷 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=cocodding0723&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Unity%20%26%20Flutter%20Developer&descAlignY=58&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=cocodding0723&fontSize=65&fontColor=fff&fontAlignY=38&desc=Unity+%7C+Flutter+Developer&descAlignY=58&descSize=22"/>
 </div>
 
 <!-- Typing animation -->
