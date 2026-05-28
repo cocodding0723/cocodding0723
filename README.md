@@ -55,7 +55,7 @@ class Developer {
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
 
 ### ☁️ Backend
-<img src="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins,postgres,redis&theme=dark&perline=7"/>
 
 ### 🛠 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6"/>
