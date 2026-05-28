@@ -1,4 +1,4 @@
-<!-- Header: color=gradient 은 capsule-render 공식 지원 포맷 -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=cocodding0723&fontSize=65&fontColor=fff&fontAlignY=38&desc=Unity+%7C+Flutter+Developer&descAlignY=58&descSize=22"/>
 </div>
@@ -49,19 +49,39 @@ class Developer {
 <div align="center">
 
 ### 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=unity,unrealengine&theme=dark&perline=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,unrealengine&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity,unrealengine&theme=light&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=unity,unrealengine&theme=dark&perline=6"/>
+</picture>
 
 ### 📱 Mobile & App
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=light&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark&perline=6"/>
+</picture>
 
 ### ☁️ Backend
-<img src="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins,postgres,redis&theme=dark&perline=7"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins,postgres,redis&theme=dark&perline=7"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins,postgres,redis&theme=light&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,aws,docker,jenkins,postgres,redis&theme=dark&perline=7"/>
+</picture>
 
 ### 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,rider&theme=dark&perline=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,rider&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,rider&theme=light&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,rider&theme=dark&perline=6"/>
+</picture>
 
 ### 💬 Languages
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=dark&perline=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=light&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python,kotlin,ts&theme=dark&perline=6"/>
+</picture>
 
 </div>
 
@@ -71,16 +91,24 @@ class Developer {
 
 ## 📊 GitHub Stats
 
-<!-- Streak stats: streak-stats.demolab.com 은 안정적 -->
+<!-- Streak Stats: dark/light 모드 대응 -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cocodding0723&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0080&sideLabels=7928CA&dates=ffffff" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cocodding0723&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0080&sideLabels=7928CA&dates=ffffff"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cocodding0723&theme=github&hide_border=true&stroke=7928CA&ring=7928CA&fire=FF0080"/>
+    <img src="https://streak-stats.demolab.com?user=cocodding0723&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0080&sideLabels=7928CA&dates=ffffff" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br/>
 
-<!-- Activity Graph: github-readme-activity-graph 안정적 -->
+<!-- Activity Graph: dark/light 모드 대응 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cocodding0723&theme=react-dark&bg_color=0D1117&color=FF0080&line=7928CA&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cocodding0723&theme=react-dark&bg_color=0D1117&color=FF0080&line=7928CA&point=FFD700&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cocodding0723&theme=github&color=7928CA&line=FF0080&point=FFD700&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cocodding0723&theme=react-dark&bg_color=0D1117&color=FF0080&line=7928CA&point=FFD700&area=true&hide_border=true" alt="Activity Graph"/>
+  </picture>
 </div>
 
 <br/>
