@@ -71,7 +71,7 @@ class Developer {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cocodding0723&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0080&sideLabels=7928CA&dates=ffffff"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=cocodding0723&theme=radical&v=2"/>
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=cocodding0723&theme=github&hide_border=true&stroke=7928CA&ring=7928CA&fire=FF0080"/>
     <img src="https://streak-stats.demolab.com?user=cocodding0723&theme=radical&hide_border=true&background=0D1117&stroke=FF0080&ring=7928CA&fire=FF0080&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF0080&sideLabels=7928CA&dates=ffffff" alt="GitHub Streak"/>
   </picture>
